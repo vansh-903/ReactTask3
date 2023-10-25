@@ -1,0 +1,25 @@
+.color-picker-list {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .color-picker-item {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  
+  .selected-color {
+    margin-top: 10px;
+  }
+  
+  .selected-color-square {
+    width: 20px;
+    height: 20px;
+  }
